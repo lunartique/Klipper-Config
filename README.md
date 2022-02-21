@@ -1,4 +1,4 @@
-# Klipper-Config
+# Artillery Sidewinder X1 Klipper Config
 klipper config file for Artillery Sidewinder X1+BLTouch+E3D Hemera.
 I've mix the config from multiple sources
 - https://3dprintbeginner.com/install-klipper-on-sidewinder-x1/
