@@ -19,6 +19,7 @@ I've mix and match Klipper configs from multiple sources and some of my own.
 - https://github.com/Clank50AE/Clanks-Klipper-Configs
 - https://github.com/ascii-ts/my-klipper-configs#readme
 - https://github.com/JJShankles/3d-printers
+- https://gist.github.com/ChipCE/95fdbd3c2f3a064397f9610f915f7d02
 
 and many other config that I have saved tidbits and try swapping them around until my printer moved. Some more adjusting still needed so please expect to tinker around with it.
 
@@ -36,6 +37,7 @@ Worth reading refs
 - SET_VELOCITY_LIMIT ACCEL_TO_DECEL=7000
 - TUNING_TOWER command=set_velocity_limit parameter=accel start=1250 factor=100 band=5
 - Selectging the max speed https://www.klipper3d.org/Resonance_Compensation.html#selecting-max_accel
+- Klipper mesh on print area only install guide https://gist.github.com/ChipCE/95fdbd3c2f3a064397f9610f915f7d02#klipper-mesh-on-print-area-only-install-guide
 
 Worth watching refs
 
