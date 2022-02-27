@@ -3,6 +3,7 @@ klipper config file for Artillery Sidewinder X1+BLTouch+E3D Hemera.
 The modification to my printer are per below.
 - Change all V-Rollers to PC rollers.
 - Added Z Brace kit from Creality CR-10 Kit.
+- Remove Z sync belt
 - Change extruder stepper to LV8729 1/64 microstepping
 - Flexplate
 - Bed cable relief+cable chain
