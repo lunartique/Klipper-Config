@@ -26,7 +26,7 @@ Keep your power switch close.
 
 
 Worth reading refs
-
+- Klipper Gcode https://www.klipper3d.org/G-Codes
 - Z offset calribrate https://www.klipper3d.org/Probe_Calibrate.html
 - Linear Advanced/ Pressure Advanced https://www.klipper3d.org/Pressure_Advance.html
 - Input shaper https://www.klipper3d.org/Measuring_Resonances.html
