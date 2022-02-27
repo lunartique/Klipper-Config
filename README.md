@@ -30,6 +30,11 @@ Worth reading refs
 - Z offset calribrate https://www.klipper3d.org/Probe_Calibrate.html
 - Linear Advanced/ Pressure Advanced https://www.klipper3d.org/Pressure_Advance.html
 - Input shaper https://www.klipper3d.org/Measuring_Resonances.html
+- Maxing out the speed https://www.klipper3d.org/Resonance_Compensation.html#tuning
+- SET_PRESSURE_ADVANCE ADVANCE=0
+- SET_VELOCITY_LIMIT ACCEL_TO_DECEL=7000
+- TUNING_TOWER command=set_velocity_limit parameter=accel start=1250 factor=100 band=5
+- Selectging the max speed https://www.klipper3d.org/Resonance_Compensation.html#selecting-max_accel
 
 Worth watching refs
 
