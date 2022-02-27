@@ -22,29 +22,31 @@ and many other config that I have saved tidbits and try swapping them around unt
 Please feelfree to use,but the most important message of all keep in mind I don't know WTF i'm doing. risk is your own lol.
 Keep your power switch close.
 
-Worth reading/watching refs
 
-Z offset calribrate 
+Worth reading refs
+
+- Z offset calribrate 
 https://www.klipper3d.org/Probe_Calibrate.html
 
-Linear Advanced/ Pressure Advanced 
+- Linear Advanced/ Pressure Advanced 
 https://www.klipper3d.org/Pressure_Advance.html
 
-Input shaper 
+- Input shaper 
 https://www.klipper3d.org/Measuring_Resonances.html
 
+Worth watching refs
 
-Klipper Initial Setup : Making sure things are all good before printing
+- Klipper Initial Setup : Making sure things are all good before printing
 https://youtu.be/T-knWbh1Gg8
 
-Klipper guide: Input shaping, pressure advance and macros (manual + accelerometer)
+- Klipper guide: Input shaping, pressure advance and macros (manual + accelerometer)
 https://youtu.be/EJapxNsntsQ
 
-INPUT SHAPER CRASH COURSE - Print FASTER and BETTER!
+- INPUT SHAPER CRASH COURSE - Print FASTER and BETTER!
 https://youtu.be/OoWQUcFimX8
 
-Klipper input shaping - A leap forward in high speed AND high quality 3D printing [Rat Rig part 4]
+- Klipper input shaping - A leap forward in high speed AND high quality 3D printing [Rat Rig part 4]
 https://youtu.be/er7q-CJL1lc?t=713
 
-MAX OUT ACCELERATION - Find your printers limit with input shaper!
+- MAX OUT ACCELERATION - Find your printers limit with input shaper!
 https://youtu.be/IezqWVZZ_iI
