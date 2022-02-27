@@ -4,12 +4,13 @@ The modification to my printer are per below.
 - Change all V-Rollers to PC rollers.
 - Added Z Brace kit from Creality CR-10 Kit.
 - Remove Z sync belt
-- Change extruder stepper to LV8729 1/64 microstepping
+- Change Z nut to POM
 - Flexplate
 - Bed cable relief+cable chain
 - Nylock nuts on bed
 - BLTouch 3.1
 - E3D Hemera + Nozzle X
+- Change extruder stepper to LV8729 1/64 microstepping
 - Hemera V6 Part Cooling Duct & Mount https://www.thingiverse.com/thing:4042492
 - hemera mount with BLtouch https://www.thingiverse.com/thing:4856807
 - 3 Screw Hemera Duct Mount Plate https://www.thingiverse.com/thing:4260308
