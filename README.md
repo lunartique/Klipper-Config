@@ -13,7 +13,7 @@ The modification to my printer are per below.
 - hemera mount with BLtouch https://www.thingiverse.com/thing:4856807
 - 3 Screw Hemera Duct Mount Plate https://www.thingiverse.com/thing:4260308
 
-I've mix the config from multiple sources
+I've mix and match Klipper configs from multiple sources and some of my own.
 - https://3dprintbeginner.com/install-klipper-on-sidewinder-x1/
 - https://github.com/ascii-ts/my-klipper-configs#readme
 
