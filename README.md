@@ -17,6 +17,7 @@ The modification to my printer are per below.
 
 I've mix and match Klipper configs from multiple sources and some of my own.
 - https://3dprintbeginner.com/install-klipper-on-sidewinder-x1/
+- https://github.com/Clank50AE/Clanks-Klipper-Configs
 - https://github.com/ascii-ts/my-klipper-configs#readme
 
 and many other config that I have saved tidbits and try swapping them around until my printer moved. Some more adjusting still needed so please expect to tinker around with it.
