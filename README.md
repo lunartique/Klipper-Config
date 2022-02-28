@@ -29,6 +29,7 @@ Keep your power switch close.
 
 
 Worth reading refs
+- Print tuning guide https://github.com/AndrewEllis93/Print-Tuning-Guide
 - Klipper Gcode https://www.klipper3d.org/G-Codes
 - Z offset calribrate https://www.klipper3d.org/Probe_Calibrate.html
 - Linear Advanced/ Pressure Advanced https://www.klipper3d.org/Pressure_Advance.html
