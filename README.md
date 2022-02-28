@@ -14,6 +14,7 @@ The modification to my printer are per below.
 - Hemera V6 Part Cooling Duct & Mount https://www.thingiverse.com/thing:4042492
 - hemera mount with BLtouch https://www.thingiverse.com/thing:4856807
 - 3 Screw Hemera Duct Mount Plate https://www.thingiverse.com/thing:4260308
+- Klipper Screen
 
 I've mix and match Klipper configs from multiple sources and some of my own.
 - https://github.com/Clank50AE/Clanks-Klipper-Configs
