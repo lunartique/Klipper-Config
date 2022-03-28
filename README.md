@@ -15,6 +15,7 @@ The modification to my printer are per below.
 - hemera mount with BLtouch https://www.thingiverse.com/thing:4856807
 - 3 Screw Hemera Duct Mount Plate https://www.thingiverse.com/thing:4260308
 - Klipper Screen
+- Change Solid State Relay to OMRON G3NA-210B DC5-24V
 
 I've mix and match Klipper configs from multiple sources and some of my own.
 - https://github.com/Clank50AE/Clanks-Klipper-Configs
